@@ -1,0 +1,6 @@
+services:
+  portfolio:
+   image: portfolio:latest
+   ports:
+     - 80:80
+     
